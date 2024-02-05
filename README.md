@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I'm passionate about coding and currently working 
 -**Interview Preparation Software**: Building a tool to help individuals prepare for interviews by providing a comprehensive platform with practice questions, mock interviews, and more.
   ## 🌐 How to Reach Me 📫
 
-- **Instagram**: [Your Instagram Handle](https://www.instagram.com/biswa2015.bd/)
+- **Instagram**: [Biswajit Deb](https://www.instagram.com/biswa2015.bd)
 - **Email**: biswa.business.2022@gmail.com
   
 
